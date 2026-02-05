@@ -1,0 +1,16 @@
+-particalQuality 0
+-pedLodBias 0.0
+-postFX 0
+-reflectionQuality 0
+-shaderQuality 0
+-vehicleLodBias 0.0
+-noquanttransform
+-fullscreen
+-FrameQueueLimit 1
+-DX10
+-cityDensity 0.0
+-anisotropicQualityLevel 0
+-grassQuality 0
+-hdr
+-lodScale 0.0
+-noInGameDOF

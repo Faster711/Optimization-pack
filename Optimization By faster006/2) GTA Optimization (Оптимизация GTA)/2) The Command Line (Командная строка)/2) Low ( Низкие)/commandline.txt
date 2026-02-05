@@ -1,0 +1,9 @@
+-DX11
+-disableHyperthreading
+-noquanttransform
+-borderless
+-FrameQueueLimit 1
+
+
+
+

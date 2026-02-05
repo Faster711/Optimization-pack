@@ -1,0 +1,1 @@
+-ignoreDifferentVideoCard -disableHyperthreading -hdr -noquattransform -noInGameDOF -noprecache -novblank  -norestrictions  -minspecaudio  -novsync  -nomemrestrict -high -threads 8 -USEALLAVAILABLECORES -nomansky -noBattleye

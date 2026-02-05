@@ -1,0 +1,3 @@
+-DX11
+-borderless
+-FrameQueueLimit 0
